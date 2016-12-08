@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/SyedAman/PostgreSQL-Project#readme",
   "dependencies": {
+    "dust": "^0.3.0",
+    "dustjs-helpers": "^1.7.3",
+    "dustjs-linkedin": "^2.7.4",
     "express": "^4.14.0"
   }
 }
