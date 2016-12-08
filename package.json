@@ -1,0 +1,19 @@
+{
+  "name": "postgresql-project",
+  "version": "1.0.0",
+  "description": "package manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedAman/PostgreSQL-Project.git"
+  },
+  "author": "Syed Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedAman/PostgreSQL-Project/issues"
+  },
+  "homepage": "https://github.com/SyedAman/PostgreSQL-Project#readme"
+}
