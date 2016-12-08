@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SyedAman/PostgreSQL-Project/issues"
   },
-  "homepage": "https://github.com/SyedAman/PostgreSQL-Project#readme"
+  "homepage": "https://github.com/SyedAman/PostgreSQL-Project#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
