@@ -1,6 +1,6 @@
-# PostgreSQL-Project
+# PostgreSQL MochaJS AWSso Project
 
-Using PostgreSQL
+Using PostgreSQL, MochaJS, and AWSso
 
 ## Technology Stack
 
