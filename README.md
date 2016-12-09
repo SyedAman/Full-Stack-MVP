@@ -4,8 +4,10 @@ Using PostgreSQL, MochaJS, and AWSso
 
 ## Technology Stack
 
-- PostgreSQL
-    - PGAdmin
-- NodeJS
-- DustJS
-- ExpressJS
+* PostgreSQL
+  * PGAdmin
+* NodeJS
+* DustJS
+* ExpressJS
+* MochaJS
+* Amazon Web Services Security Operations (AWSso)
